@@ -4,9 +4,7 @@ A learning app for 7th grade maths class.
 
 # Deployment 
 
-[learn-math.azurewebsites.net](https://learn-math.azurewebsites.net/guide)
-
-You can find the deployed version here: https://georgeiliop.github.io/learning-app/
+You can find the deployed version here: https://learn-math.azurewebsites.net
 
 # Getting Started with Create React App
 
