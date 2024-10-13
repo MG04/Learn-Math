@@ -2,6 +2,7 @@ import pdf1 from "./pdfs/presentation1.pdf";
 import pdf2 from "./pdfs/presentation2.pdf";
 import pdf3 from "./pdfs/presentation3.pdf";
 
+// eslint-disable-next-line
 export default [
   {
     id: 1,
