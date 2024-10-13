@@ -4,7 +4,7 @@ A learning app for 7th grade maths class.
 
 # Deployment 
 
-You can find the deployed version here: https://learn-math.azurewebsites.net
+You can find the deployed version here: [https://learn-math.azurewebsites.net](https://learn-math-z35e.onrender.com)
 
 # Getting Started with Create React App
 
