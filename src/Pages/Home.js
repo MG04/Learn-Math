@@ -28,10 +28,7 @@ function Home() {
         <img className="home--doodle" src={phone} alt="arrow" />
       </div>
       <div className="footer">
-        <p>
-          {" "}
-          ΜΑΡΙΟΣ ΓΚΟΥΡΑ - ice20390041<br></br>
-        </p>
+        <p> ΜΑΡΙΟΣ ΓΚΟΥΡΑ</p>
       </div>
     </div>
   );
